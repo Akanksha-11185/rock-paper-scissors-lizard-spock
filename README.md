@@ -15,7 +15,7 @@ A fun twist on the classic Rock Paper Scissors game — featuring *Lizard* and *
 - Rock ✊🏻 breaks Scissors ✌🏻
 
 ## 🎮 How to Play:
-Run the `game.py` file and select your move by choosing a number between 1-5:
+Run the `stone.py` file and select your move by choosing a number between 1-5:
 1. Rock ✊🏻
 2. Scissors ✌🏻
 3. Paper 🖐🏻
